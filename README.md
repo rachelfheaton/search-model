@@ -1,6 +1,7 @@
 # search-model
 # Model of visual search 
 # Written and developed by Rachel F Heaton and John E Hummel
+# This model profited from helpful discussions with Alejandro Lleras and Simona Buetti
 
 * Copyright 2023 The Board of Trustees of the University of Illinois. All Rights Reserved.
 * Licensed under the terms of the Apache License 2.0 license (the "License")
@@ -11,7 +12,8 @@
 * See the License for the specific language governing permissions and limitations under the License.
 
 
-This model of visual search was first developed and written by John E Hummel in 2018.
+This model of visual search was first developed and written by John E Hummel in 2018: https://github.com/jehummel/HummelSearchModel2018
+
 The model was subsequently developed and written by Rachel F Heaton.
 
 # If this work is used in academic research, please cite:
@@ -21,10 +23,11 @@ as well as the persistent DOI in the README.md file in this repository.
 
 <a href="https://zenodo.org/badge/latestdoi/703054287"><img src="https://zenodo.org/badge/703054287.svg" alt="DOI"></a>
 
+The code for this model can be found at https://github.com/rachelfheaton/search-model
+
 # Acknowledgements
 
 This material is based upon work supported by the National Science Foundation under Grant No. BCS1921735
-
 
 
 # To run this code:
