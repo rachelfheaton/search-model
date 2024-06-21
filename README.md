@@ -19,7 +19,7 @@ The model was subsequently developed and written by Rachel F Heaton.
 # If this work is used in academic research, please cite:
 Heaton, R., Hummel, J., Lleras, A., & Buetti, S. (2020). A computational account of serial and parallel processing in visual search. Journal of Vision, 20(11), 844-844.
 
-as well as the persistent DOI in the Notice.txt file in this repository.
+as well as the persistent DOI for this repository.
 
 <a href="https://zenodo.org/badge/latestdoi/703054287"><img src="https://zenodo.org/badge/703054287.svg" alt="DOI"></a>
 
