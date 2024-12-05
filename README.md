@@ -12,7 +12,7 @@
 * See the License for the specific language governing permissions and limitations under the License.
 
 
-This model of visual search was first developed and written by John E Hummel in 2018: https://github.com/jehummel/HummelSearchModel2018
+## This model of visual search was first developed and written by John E Hummel in 2018: https://github.com/jehummel/HummelSearchModel2018
 
 The model was subsequently developed and written by Rachel F Heaton.
 
