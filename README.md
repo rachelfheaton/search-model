@@ -1,7 +1,6 @@
 # search-model
 # Model of visual search 
 # Written and developed by Rachel F Heaton and John E Hummel
-### This model profited from helpful discussions about general issues in visual search with Alejandro Lleras and Simona Buetti.
 
 * Copyright 2023 The Board of Trustees of the University of Illinois. All Rights Reserved.
 * Licensed under the terms of the Apache License 2.0 license (the "License")
@@ -11,6 +10,7 @@
 * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 * See the License for the specific language governing permissions and limitations under the License.
 
+### This model profited from helpful discussions about general issues in visual search with Alejandro Lleras and Simona Buetti.
 
 ## This model of visual search was first developed and written by John E Hummel in 2018: https://github.com/jehummel/HummelSearchModel2018
 
