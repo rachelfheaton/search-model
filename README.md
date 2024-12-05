@@ -1,7 +1,7 @@
 # search-model
 # Model of visual search 
 # Written and developed by Rachel F Heaton and John E Hummel
-# This model profited from helpful discussions with Alejandro Lleras and Simona Buetti
+### This model profited from helpful discussions about general issues in visual search with Alejandro Lleras and Simona Buetti.
 
 * Copyright 2023 The Board of Trustees of the University of Illinois. All Rights Reserved.
 * Licensed under the terms of the Apache License 2.0 license (the "License")
